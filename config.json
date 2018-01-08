@@ -12,6 +12,7 @@
     "golint",
     "scope"
   ],
+  "Deadline": "5m",
   "Exclude": [
     "ignore",
     "errcheck"
