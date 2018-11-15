@@ -7,3 +7,5 @@ RUN go get github.com/kyoh86/scopelint && \
     go get github.com/alecthomas/gometalinter && \
     go get github.com/haya14busa/reviewdog/cmd/reviewdog && \
     gometalinter --install
+
+ENV GO111MODULE on
